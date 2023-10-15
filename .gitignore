@@ -1,5 +1,8 @@
-*.ds_store
-.ds_store
+.DS_Store
+.idea
+.vscode
+.env
+*.psd
 # Logs
 logs
 *.log
